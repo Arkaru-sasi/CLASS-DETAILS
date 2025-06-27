@@ -1,0 +1,29 @@
+body{
+  background-image: url(web/bg.jpg);
+ height: 600px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img{
+    border-radius: 10px solid purple;
+    border-radius: 50%;
+}
+.container{
+    display: flex;
+    flex-direction:column;
+ 
+   
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+     gap: 50px;
+    
+}
+
+h1{
+    width: 170px;
+}

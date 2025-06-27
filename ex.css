@@ -1,0 +1,15 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#s{
+    color:yellowgreen;
+    
+}
+#input{
+    color:red;
+    /* display: flex; */
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
